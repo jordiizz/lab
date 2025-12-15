@@ -1,7 +1,7 @@
-package com.jordiizz.misapps.lab.pojos;
+package com.jordiizz.misapps.lab.interfaces.pojos;
 
-import com.jordiizz.misapps.lab.enums.MetodoPago;
-import com.jordiizz.misapps.lab.interfaces.Pago;
+import com.jordiizz.misapps.lab.interfaces.enums.MetodoPago;
+import com.jordiizz.misapps.lab.interfaces.interfaces.Pago;
 import java.math.BigDecimal;;
 
 public class TarjetaCredito implements Pago{

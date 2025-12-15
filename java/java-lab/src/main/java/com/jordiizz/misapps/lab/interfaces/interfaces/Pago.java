@@ -1,4 +1,4 @@
-package com.jordiizz.misapps.lab.interfaces;
+package com.jordiizz.misapps.lab.interfaces.interfaces;
 
 import java.math.BigDecimal;
 

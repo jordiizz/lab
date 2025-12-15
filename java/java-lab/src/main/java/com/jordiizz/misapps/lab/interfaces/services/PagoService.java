@@ -1,8 +1,8 @@
-package com.jordiizz.misapps.lab.services;
+package com.jordiizz.misapps.lab.interfaces.services;
 
 import java.math.BigDecimal;
 
-import com.jordiizz.misapps.lab.interfaces.Pago;
+import com.jordiizz.misapps.lab.interfaces.interfaces.Pago;
 
 public class PagoService {
 

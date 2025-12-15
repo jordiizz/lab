@@ -1,10 +1,10 @@
-package com.jordiizz.misapps.lab;
+package com.jordiizz.misapps.lab.interfaces;
 
 import java.math.BigDecimal;
 
-import com.jordiizz.misapps.lab.pojos.Paypal;
-import com.jordiizz.misapps.lab.pojos.TarjetaCredito;
-import com.jordiizz.misapps.lab.services.PagoService;
+import com.jordiizz.misapps.lab.interfaces.pojos.Paypal;
+import com.jordiizz.misapps.lab.interfaces.pojos.TarjetaCredito;
+import com.jordiizz.misapps.lab.interfaces.services.PagoService;
 
 public class App {
     

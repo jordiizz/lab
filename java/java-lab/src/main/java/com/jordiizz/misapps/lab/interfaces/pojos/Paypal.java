@@ -1,9 +1,9 @@
-package com.jordiizz.misapps.lab.pojos;
+package com.jordiizz.misapps.lab.interfaces.pojos;
 
 import java.math.BigDecimal;
 
-import com.jordiizz.misapps.lab.enums.MetodoPago;
-import com.jordiizz.misapps.lab.interfaces.Pago;
+import com.jordiizz.misapps.lab.interfaces.enums.MetodoPago;
+import com.jordiizz.misapps.lab.interfaces.interfaces.Pago;
 
 public class Paypal implements Pago{
 
